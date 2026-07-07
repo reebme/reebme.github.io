@@ -16,7 +16,9 @@ In short, it emphasizes asking what the true reference population is when analyz
 ### Statistics and data science using Findex
 **[The Denominator Problem in Findex](https://medium.com/@embeer/the-denominator-problem-in-findex-accd68dc3bbe)**
 
-This article examines denominator inconsistencies in the World Bank's Global Findex database, recommending caution when deriving population-level estimates from specific variables. It analyzes the UNIT_MEASURE column, where most conditional indicators (beyond the full respondent population PT_RESP) allow consistent recovery of reference population sizes via conditional probability. However, three measures introduced in the 2024 wave—percentage with a mobile money account, without any account, and using the internet—show notable inconsistencies across indicators, with spreads sometimes exceeding 10–35 percentage points depending on the country and indicator choice.
+This article examines denominator inconsistencies in the World Bank's Global Findex database, recommending caution when deriving population-level estimates from specific variables.
+
+It analyzes the UNIT_MEASURE column, where most conditional indicators (beyond the full respondent population PT_RESP) allow consistent recovery of reference population sizes via conditional probability. However, three measures introduced in the 2024 wave: percentage with a mobile money account, without any account, and using the internet, show notable inconsistencies across indicators, with spreads sometimes exceeding 10–35 percentage points depending on the country and indicator choice.
 
 Overall, it highlights the importance of checking denominator consistency in conditional data in any analysis.
 
