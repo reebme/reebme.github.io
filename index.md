@@ -9,7 +9,9 @@ I write about statistics, data science, and the places where methods are easier 
 
 This article explains conditional probability as "shrinking universes." It shows how conditioning on an event changes the reference population, altering the denominator while the overlap (numerator) may stay the same.
 
-Using a simple example of computer users who like ice cream, the piece highlights practical implications for interpreting ambiguous real-world metrics (like World Bank data) and using probability rules for sanity checks and recovering missing values. In short, it emphasizes asking what the true reference population is when analyzing data.
+Using a simple example of computer users who like ice cream, the piece highlights practical implications for interpreting ambiguous real-world metrics (like World Bank data) and using probability rules for sanity checks and recovering missing values.
+
+In short, it emphasizes asking what the true reference population is when analyzing data.
 
 ### Statistics and data science using Findex
 - [The Denominator Problem in Findex](https://medium.com/@embeer/the-denominator-problem-in-findex-accd68dc3bbe)
