@@ -21,4 +21,4 @@ I write about statistics, data science, and the places where methods are easier 
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/magdalena-ruducha-3929aa318/)
+- [LinkedIn](https://www.linkedin.com/in/magdalena-ruducha-3929aa318)
