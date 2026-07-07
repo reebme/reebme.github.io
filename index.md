@@ -7,7 +7,9 @@ I write about statistics, data science, and the places where methods are easier 
 ### General statistics and data science methodology
 **[Shrinking Universes in Conditional Probability](https://medium.com/@embeer/shrinking-universes-in-conditional-probability-2856d6a92173)**
 
-Conditional probability is about changing the reference population, the "universe" you're considering. Instead of looking at the entire group, you shrink your view to only the subgroup that satisfies a given condition. This changes the denominator in the probability calculation, even if the numerator, the overlap or event of interest, stays the same.
+This article explains conditional probability as "shrinking universes." It shows how conditioning on an event changes the reference population, altering the denominator while the overlap (numerator) may stay the same.
+
+Using a simple example of computer users who like ice cream, the piece highlights practical implications for interpreting ambiguous real-world metrics (like World Bank data) and using probability rules for sanity checks and recovering missing values. In short, it emphasizes asking what the true reference population is when analyzing data.
 
 ### Statistics and data science using Findex
 - [The Denominator Problem in Findex](https://medium.com/@embeer/the-denominator-problem-in-findex-accd68dc3bbe)
