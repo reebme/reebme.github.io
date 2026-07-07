@@ -5,7 +5,10 @@ I write about statistics, data science, and the places where methods are easier 
 ## Articles
 
 ### General statistics and data science methodology
-- [Shrinking Universes in Conditional Probability](https://medium.com/@embeer/shrinking-universes-in-conditional-probability-2856d6a92173)
+#### Shrinking Universes in Conditional Probability
+Conditional probability is about changing the reference population (the "universe" you're considering). Instead of looking at the entire group, you shrink your view to only the subgroup that satisfies a given condition. This changes the denominator in the probability calculation, even if the numerator (the overlap/event of interest) stays the same.
+
+[Shrinking Universes in Conditional Probability](https://medium.com/@embeer/shrinking-universes-in-conditional-probability-2856d6a92173)
 
 ### Statistics and data science using Findex
 - [The Denominator Problem in Findex](https://medium.com/@embeer/the-denominator-problem-in-findex-accd68dc3bbe)
