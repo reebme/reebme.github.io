@@ -1,4 +1,4 @@
-# Frequently unconvinced
+# Frequently unconvinced and constantly curious
 
 I write about statistics, data science, and the places where methods are easier to use than to understand.
 
